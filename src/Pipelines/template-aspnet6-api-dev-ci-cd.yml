@@ -14,17 +14,17 @@ steps:
     secureFile: "appsettings.dev.json"
 
 - bash: |
-    sudo cp $(envFile.secureFilePath) /home/vsts/work/1/s/TotalEnergies.ACDC.Api/appsettings.json
+    sudo cp $(envFile.secureFilePath) /home/vsts/work/1/s/Template.AspNet6.Api/appsettings.json
   displayName: "Mv environment file to proper directory"
 
 - task: Docker@1
   displayName: 'Build an image'
   inputs:
-    azureSubscriptionEndpoint: 'TOTAL HORS PROD 2'
-    containerRegistry: 'acrfnfk8shp2'
-    azureContainerRegistry: $(acr-server-login)
+    azureSubscriptionEndpoint: 'Template.AspNet6'
+    containerRegistry: 'xxxxxxxxx'
+    azureContainerRegistry: $(server-login)
     dockerFile: Dockerfile
-    imageName: '$(acr-server-login)/$(appProjectName):$(Build.BuildNumber)'
+    imageName: '$(server-login)/$(appProjectName):$(Build.BuildNumber)'
     useDefaultContext: false
     buildContext: .
     includeLatestTag: true
@@ -32,17 +32,17 @@ steps:
 - task: Docker@1
   displayName: 'Push an image'
   inputs:
-    azureSubscriptionEndpoint: 'TOTAL HORS PROD 2'
-    containerRegistry: 'acrfnfk8shp2'
-    azureContainerRegistry: $(acr-server-login)
+    azureSubscriptionEndpoint: 'Template.AspNet6'
+    containerRegistry: 'xxxxxxxxx'
+    azureContainerRegistry: $(server-login)
     command: 'Push an image'
-    imageName: '$(acr-server-login)/$(appProjectName):$(Build.BuildNumber)'
+    imageName: '$(server-login)/$(appProjectName):$(Build.BuildNumber)'
 
 - task: Docker@1
   displayName: 'Push latest Image'
   inputs:
-    azureSubscriptionEndpoint: 'TOTAL HORS PROD 2'
-    containerRegistry: 'acrfnfk8shp2'  
-    azureContainerRegistry: $(acr-server-login)
+    azureSubscriptionEndpoint: 'Template.AspNet6'
+    containerRegistry: 'xxxxxxxxx'  
+    azureContainerRegistry: $(server-login)
     command: 'Push an image'
-    imageName: '$(acr-server-login)/$(appProjectName):latest'
+    imageName: '$(server-login)/$(appProjectName):latest'
