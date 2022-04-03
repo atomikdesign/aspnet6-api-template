@@ -11,7 +11,7 @@
 
   <PropertyGroup>
     <PackageType>Template</PackageType>
-    <Version>0.1.0</Version>
+    <Version>0.1.1</Version>
     <PackageId>AspNet6ApiTemplate</PackageId>
     <Title>ASP.NET6 API Template</Title>
     <Company>Arnaud Gourdon</Company>
