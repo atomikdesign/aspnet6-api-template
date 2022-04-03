@@ -1,0 +1,17 @@
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/bin/Debug/net6.0/Template.AspNet6.Infra.Auth.deps.json
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/bin/Debug/net6.0/Template.AspNet6.Infra.Auth.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/bin/Debug/net6.0/ref/Template.AspNet6.Infra.Auth.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/bin/Debug/net6.0/Template.AspNet6.Infra.Auth.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/bin/Debug/net6.0/Template.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/bin/Debug/net6.0/Template.AspNet6.Domain.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/bin/Debug/net6.0/Template.AspNet6.Application.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/bin/Debug/net6.0/Template.AspNet6.Domain.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/obj/Debug/net6.0/Template.AspNet6.Infra.Auth.csproj.AssemblyReference.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/obj/Debug/net6.0/Template.AspNet6.Infra.Auth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/obj/Debug/net6.0/Template.AspNet6.Infra.Auth.AssemblyInfoInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/obj/Debug/net6.0/Template.AspNet6.Infra.Auth.AssemblyInfo.cs
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/obj/Debug/net6.0/Template.AspNet6.Infra.Auth.csproj.CoreCompileInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/obj/Debug/net6.0/Template.AspNet6.Infra.Auth.csproj.CopyComplete
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/obj/Debug/net6.0/Template.AspNet6.Infra.Auth.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/obj/Debug/net6.0/ref/Template.AspNet6.Infra.Auth.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/aspnet6-api-template/Template.AspNet6.Infra.Auth/obj/Debug/net6.0/Template.AspNet6.Infra.Auth.pdb

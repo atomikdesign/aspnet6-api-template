@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YIW8Jug/edKok7Sg8oSAg4p9YRo6MwS8TzZ8fejcJAE=",
+  "Source": "Template.AspNet6.Api",
+  "BasePath": "_content/Template.AspNet6.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

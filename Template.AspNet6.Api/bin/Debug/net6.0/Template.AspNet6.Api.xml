@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Template.AspNet6.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Template.AspNet6.Api.UseCases.Me.Get.MeController.GetMeAsync(Template.AspNet6.Application.Services.Authentication.IIdentityProvider,Template.AspNet6.Application.UseCases.Users.Get.IGetUsersUseCase)">
+            <summary>
+                Get authenticated user
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Me.Update.MeController.UpdateMeAsync(Template.AspNet6.Application.Services.Authentication.IIdentityProvider,Template.AspNet6.Application.UseCases.Users.Update.IUpdateUserUseCase,Template.AspNet6.Api.UseCases.Me.Update.UpdateMeRequest)">
+            <summary>
+                Update authenticated user
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Me.Update.ProfilePicture.MeController.UpdateProfilePictureAsync(Template.AspNet6.Application.Services.Authentication.IIdentityProvider,Template.AspNet6.Application.UseCases.Users.Update.ProfilePicture.IUpdateProfilePictureUseCase,Template.AspNet6.Api.UseCases.Me.Update.ProfilePicture.UpdateProfilePictureRequest)">
+            <summary>
+                Update profile picture of authenticated user
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.OAuth.LogAs.UsersController.AdminGetAccessTokenAsync(Template.AspNet6.Application.UseCases.OAuth.LogAs.IAdminLogAsUseCase,System.Guid)">
+            <summary>
+                Get temporary user access token
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.OAuth.RefreshToken.AuthController.RefreshAccessTokenAsync(Template.AspNet6.Application.UseCases.OAuth.RefreshToken.IRefreshTokenUseCase,Template.AspNet6.Api.UseCases.OAuth.RefreshToken.RefreshTokenRequest)">
+            <summary>
+            Refresh access token  
+            </summary>
+            <remarks>Access Token can be expired.</remarks>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.OAuth.SignIn.AuthController.SignInWithPasswordAsync(Template.AspNet6.Application.UseCases.OAuth.SignIn.ISignInUseCase,Template.AspNet6.Api.UseCases.OAuth.SignIn.SignInWithPasswordRequest)">
+            <summary>
+                Sign in user
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.OAuth.SignIn.AuthController.SignInWithCustomOpenIdAsync(Template.AspNet6.Application.UseCases.OAuth.SignIn.ISignInUseCase,System.String)">
+            <summary>
+                Sign in user with custom sso token
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.OAuth.SignIn.AuthController.SignInWithGoogleAsync(Template.AspNet6.Application.UseCases.OAuth.SignIn.ISignInUseCase,System.String)">
+            <summary>
+                Sign in user with google access token
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.OAuth.SignIn.AuthController.SignInWithMicrosoftAsync(Template.AspNet6.Application.UseCases.OAuth.SignIn.ISignInUseCase,System.String)">
+            <summary>
+                Sign in user with microsoft sso token
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Users.Add.UsersController.AddUserAsync(Template.AspNet6.Application.UseCases.Users.Add.IAddUserUseCase,Template.AspNet6.Api.UseCases.Users.Add.AddUserRequest)">
+            <summary>
+                Create user
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Users.Get.UsersController.GetUsers(Template.AspNet6.Application.UseCases.Users.Get.IGetUsersUseCase,Template.AspNet6.Api.UseCases.Users.Get.GetUserRequest,System.Int32,System.Int32)">
+            <summary>
+                Get users
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Users.Get.UsersController.GetUser(Template.AspNet6.Application.UseCases.Users.Get.IGetUsersUseCase,System.Guid)">
+            <summary>
+                Get user from unique id
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Users.Update.UsersController.UpdateUserAsync(Template.AspNet6.Application.UseCases.Users.Update.IUpdateUserUseCase,System.Guid,Template.AspNet6.Api.UseCases.Users.Update.UpdateUserRequest)">
+            <summary>
+                Update user
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Warmup.WarmupController.Warmup">
+            <summary>
+            Warmup endpoint
+            </summary>
+        </member>
+    </members>
+</doc>

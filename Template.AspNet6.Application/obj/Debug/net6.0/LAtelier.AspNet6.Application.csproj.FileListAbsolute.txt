@@ -1,0 +1,15 @@
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/obj/Debug/net6.0/LAtelier.AspNet6.Application.csproj.AssemblyReference.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/obj/Debug/net6.0/LAtelier.AspNet6.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/obj/Debug/net6.0/LAtelier.AspNet6.Application.AssemblyInfoInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/obj/Debug/net6.0/LAtelier.AspNet6.Application.AssemblyInfo.cs
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/obj/Debug/net6.0/LAtelier.AspNet6.Application.csproj.CoreCompileInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/bin/Debug/net6.0/LAtelier.AspNet6.Application.deps.json
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/bin/Debug/net6.0/LAtelier.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/bin/Debug/net6.0/ref/LAtelier.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/bin/Debug/net6.0/LAtelier.AspNet6.Application.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/bin/Debug/net6.0/LAtelier.AspNet6.Domain.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/bin/Debug/net6.0/LAtelier.AspNet6.Domain.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/obj/Debug/net6.0/LAtelier.AspNet6.Application.csproj.CopyComplete
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/obj/Debug/net6.0/LAtelier.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/obj/Debug/net6.0/ref/LAtelier.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Application/obj/Debug/net6.0/LAtelier.AspNet6.Application.pdb

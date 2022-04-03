@@ -1,0 +1,12 @@
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/bin/Debug/net6.0/nuget.deps.json
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/bin/Debug/net6.0/nuget.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/bin/Debug/net6.0/ref/nuget.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/bin/Debug/net6.0/nuget.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/obj/Debug/net6.0/nuget.csproj.AssemblyReference.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/obj/Debug/net6.0/nuget.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/obj/Debug/net6.0/nuget.AssemblyInfoInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/obj/Debug/net6.0/nuget.AssemblyInfo.cs
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/obj/Debug/net6.0/nuget.csproj.CoreCompileInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/obj/Debug/net6.0/nuget.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/obj/Debug/net6.0/ref/nuget.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/obj/Debug/net6.0/nuget.pdb

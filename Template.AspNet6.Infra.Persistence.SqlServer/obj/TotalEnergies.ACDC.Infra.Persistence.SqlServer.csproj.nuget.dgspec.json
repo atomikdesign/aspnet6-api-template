@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/TotalEnergies.ACDC.Infra.Persistence.SqlServer.csproj": {}
+  },
+  "projects": {
+    "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.Template.AspNet6.Core/LAtelier.Template.AspNet6.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.Template.AspNet6.Core/LAtelier.Template.AspNet6.Core.csproj",
+        "projectName": "LAtelier.Template.AspNet6.Core",
+        "projectPath": "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.Template.AspNet6.Core/LAtelier.Template.AspNet6.Core.csproj",
+        "packagesPath": "/Users/arnaudgourdon/.nuget/packages/",
+        "outputPath": "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.Template.AspNet6.Core/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arnaudgourdon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.ApplicationInsights": {
+              "target": "Package",
+              "version": "[2.20.0, )"
+            },
+            "Microsoft.AspNetCore.Cryptography.KeyDerivation": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "MimeTypes": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/TotalEnergies.ACDC.Infra.Persistence.SqlServer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/TotalEnergies.ACDC.Infra.Persistence.SqlServer.csproj",
+        "projectName": "TotalEnergies.ACDC.Infra.Persistence.SqlServer",
+        "projectPath": "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/TotalEnergies.ACDC.Infra.Persistence.SqlServer.csproj",
+        "packagesPath": "/Users/arnaudgourdon/.nuget/packages/",
+        "outputPath": "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/arnaudgourdon/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.Template.AspNet6.Core/LAtelier.Template.AspNet6.Core.csproj": {
+                "projectPath": "/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.Template.AspNet6.Core/LAtelier.Template.AspNet6.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LinqKit.Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            },
+            "NinjaNye.SearchExtensions": {
+              "target": "Package",
+              "version": "[3.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

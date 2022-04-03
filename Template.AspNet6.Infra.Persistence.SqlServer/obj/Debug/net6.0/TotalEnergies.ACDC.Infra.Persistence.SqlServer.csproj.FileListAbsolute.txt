@@ -1,0 +1,15 @@
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/bin/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.deps.json
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/bin/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/bin/Debug/net6.0/ref/TotalEnergies.ACDC.Infra.Persistence.SqlServer.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/bin/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/bin/Debug/net6.0/TotalEnergies.ACDC.Core.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/bin/Debug/net6.0/TotalEnergies.ACDC.Core.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.csproj.AssemblyReference.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.AssemblyInfoInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.AssemblyInfo.cs
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.csproj.CoreCompileInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.csproj.CopyComplete
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/Debug/net6.0/ref/TotalEnergies.ACDC.Infra.Persistence.SqlServer.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Persistence.SqlServer/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Persistence.SqlServer.pdb

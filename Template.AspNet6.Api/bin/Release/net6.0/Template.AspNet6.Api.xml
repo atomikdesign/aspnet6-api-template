@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Template.AspNet6.Api</name>
+    </assembly>
+    <members>
+        <member name="M:Template.AspNet6.Api.UseCases.Me.Update.MeController.UpdateUserAsync(Template.AspNet6.Application.Services.Authentication.IIdentityProvider,Template.AspNet6.Application.UseCases.Users.Update.IUpdateUserUseCase,System.Guid,Template.AspNet6.Api.UseCases.Me.Update.UpdateMeRequest)">
+            <summary>
+            Update me
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.OAuth.RefreshToken.AuthController.RefreshAccessTokenAsync(Template.AspNet6.Application.UseCases.OAuth.RefreshToken.IRefreshTokenUseCase,Template.AspNet6.Api.UseCases.OAuth.RefreshToken.RefreshTokenRequest)">
+            <summary>
+            Refresh access token  
+            </summary>
+            <remarks>Access Token can be expired.</remarks>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.OAuth.SignIn.AuthController.SignInAsync(Template.AspNet6.Application.UseCases.OAuth.SignIn.ISignInUseCase,System.String)">
+            <summary>
+                Sign in user
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Users.Add.UsersController.AddUserAsync(Template.AspNet6.Application.UseCases.Users.Add.IAddUserUseCase,Template.AspNet6.Api.UseCases.Users.Add.AddUserRequest)">
+            <summary>
+            Create user
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Users.Get.UsersController.GetUsers(Template.AspNet6.Application.UseCases.Users.Get.IGetUsersUseCase,Template.AspNet6.Api.UseCases.Users.Get.GetUserRequest,System.Int32,System.Int32)">
+            <summary>
+            Get users
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Users.Update.UsersController.UpdateUserAsync(Template.AspNet6.Application.UseCases.Users.Update.IUpdateUserUseCase,System.Guid,Template.AspNet6.Api.UseCases.Users.Update.UpdateUserRequest)">
+            <summary>
+            Update user
+            </summary>
+        </member>
+        <member name="M:Template.AspNet6.Api.UseCases.Warmup.WarmupController.Warmup">
+            <summary>
+            Warmup endpoint
+            </summary>
+        </member>
+    </members>
+</doc>

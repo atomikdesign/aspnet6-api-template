@@ -1,0 +1,17 @@
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/bin/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.deps.json
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/bin/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/bin/Release/net6.0/ref/Template.AspNet6.Infra.Persistence.SqlServer.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/bin/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/bin/Release/net6.0/Template.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/bin/Release/net6.0/Template.AspNet6.Domain.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/bin/Release/net6.0/Template.AspNet6.Application.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/bin/Release/net6.0/Template.AspNet6.Domain.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/obj/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.csproj.AssemblyReference.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/obj/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/obj/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.AssemblyInfoInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/obj/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.AssemblyInfo.cs
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/obj/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.csproj.CoreCompileInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/obj/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.csproj.CopyComplete
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/obj/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/obj/Release/net6.0/ref/Template.AspNet6.Infra.Persistence.SqlServer.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Infra.Persistence.SqlServer/obj/Release/net6.0/Template.AspNet6.Infra.Persistence.SqlServer.pdb

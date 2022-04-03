@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TotalEnergies.ACDC.Api</name>
+    </assembly>
+    <members>
+        <member name="M:TotalEnergies.ACDC.Api.UseCases.Me.Update.MeController.UpdateUserAsync(TotalEnergies.ACDC.Infra.Auth.IdentityProvider,TotalEnergies.ACDC.Core.UseCases.Users.Update.IUpdateUserUseCase,System.Guid,TotalEnergies.ACDC.Api.UseCases.Me.Update.UpdateMeRequest)">
+            <summary>
+            Update me
+            </summary>
+        </member>
+        <member name="M:TotalEnergies.ACDC.Api.UseCases.OAuth.RefreshToken.AuthController.RefreshAccessTokenAsync(TotalEnergies.ACDC.Core.UseCases.OAuth.RefreshToken.IRefreshTokenUseCase,TotalEnergies.ACDC.Api.UseCases.OAuth.RefreshToken.RefreshTokenRequest)">
+            <summary>
+            Refresh access token  
+            </summary>
+            <remarks>Access Token can be expired.</remarks>
+        </member>
+        <member name="M:TotalEnergies.ACDC.Api.UseCases.OAuth.SignIn.AuthController.SignInAsync(TotalEnergies.ACDC.Core.UseCases.OAuth.SignIn.ISignInUseCase,System.String)">
+            <summary>
+                Sign in user
+            </summary>
+        </member>
+        <member name="M:TotalEnergies.ACDC.Api.UseCases.Users.Add.UsersController.AddUserAsync(TotalEnergies.ACDC.Core.UseCases.Users.Add.IAddUserUseCase,TotalEnergies.ACDC.Api.UseCases.Users.Add.AddUserRequest)">
+            <summary>
+            Create user
+            </summary>
+        </member>
+        <member name="M:TotalEnergies.ACDC.Api.UseCases.Users.Get.UsersController.GetUsers(TotalEnergies.ACDC.Core.UseCases.Users.Get.IGetUsersUseCase,TotalEnergies.ACDC.Api.UseCases.Users.Get.GetUserRequest,System.Int32,System.Int32)">
+            <summary>
+            Get users
+            </summary>
+        </member>
+        <member name="M:TotalEnergies.ACDC.Api.UseCases.Users.Update.UsersController.UpdateUserAsync(TotalEnergies.ACDC.Core.UseCases.Users.Update.IUpdateUserUseCase,System.Guid,TotalEnergies.ACDC.Api.UseCases.Users.Update.UpdateUserRequest)">
+            <summary>
+            Update user
+            </summary>
+        </member>
+        <member name="M:TotalEnergies.ACDC.Api.UseCases.Warmup.WarmupController.Warmup">
+            <summary>
+            Warmup endpoint
+            </summary>
+        </member>
+    </members>
+</doc>

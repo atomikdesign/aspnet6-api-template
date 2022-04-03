@@ -1,0 +1,12 @@
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/bin/Debug/net6.0/LAtelier.AspNet6.Domains.deps.json
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/bin/Debug/net6.0/LAtelier.AspNet6.Domains.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/bin/Debug/net6.0/ref/LAtelier.AspNet6.Domains.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/bin/Debug/net6.0/LAtelier.AspNet6.Domains.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/obj/Debug/net6.0/LAtelier.AspNet6.Domains.csproj.AssemblyReference.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/obj/Debug/net6.0/LAtelier.AspNet6.Domains.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/obj/Debug/net6.0/LAtelier.AspNet6.Domains.AssemblyInfoInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/obj/Debug/net6.0/LAtelier.AspNet6.Domains.AssemblyInfo.cs
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/obj/Debug/net6.0/LAtelier.AspNet6.Domains.csproj.CoreCompileInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/obj/Debug/net6.0/LAtelier.AspNet6.Domains.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/obj/Debug/net6.0/ref/LAtelier.AspNet6.Domains.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Domains/obj/Debug/net6.0/LAtelier.AspNet6.Domains.pdb

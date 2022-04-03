@@ -1,0 +1,17 @@
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/bin/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.deps.json
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/bin/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/bin/Debug/net6.0/ref/LAtelier.AspNet6.Infra.Persistence.Blob.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/bin/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/obj/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.csproj.AssemblyReference.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/obj/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/obj/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.AssemblyInfoInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/obj/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.AssemblyInfo.cs
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/obj/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.csproj.CoreCompileInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/obj/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.csproj.CopyComplete
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/obj/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/obj/Debug/net6.0/ref/LAtelier.AspNet6.Infra.Persistence.Blob.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/obj/Debug/net6.0/LAtelier.AspNet6.Infra.Persistence.Blob.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/bin/Debug/net6.0/LAtelier.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/bin/Debug/net6.0/LAtelier.AspNet6.Domain.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/bin/Debug/net6.0/LAtelier.AspNet6.Application.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/LAtelier.AspNet6.Infra.Persistence.Blob/bin/Debug/net6.0/LAtelier.AspNet6.Domain.pdb

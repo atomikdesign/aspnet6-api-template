@@ -1,0 +1,15 @@
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/bin/Release/net6.0/Template.AspNet6.Application.deps.json
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/bin/Release/net6.0/Template.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/bin/Release/net6.0/ref/Template.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/bin/Release/net6.0/Template.AspNet6.Application.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/bin/Release/net6.0/Template.AspNet6.Domain.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/bin/Release/net6.0/Template.AspNet6.Domain.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/obj/Release/net6.0/Template.AspNet6.Application.csproj.AssemblyReference.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/obj/Release/net6.0/Template.AspNet6.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/obj/Release/net6.0/Template.AspNet6.Application.AssemblyInfoInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/obj/Release/net6.0/Template.AspNet6.Application.AssemblyInfo.cs
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/obj/Release/net6.0/Template.AspNet6.Application.csproj.CoreCompileInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/obj/Release/net6.0/Template.AspNet6.Application.csproj.CopyComplete
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/obj/Release/net6.0/Template.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/obj/Release/net6.0/ref/Template.AspNet6.Application.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/Template.AspNet6.Application/obj/Release/net6.0/Template.AspNet6.Application.pdb

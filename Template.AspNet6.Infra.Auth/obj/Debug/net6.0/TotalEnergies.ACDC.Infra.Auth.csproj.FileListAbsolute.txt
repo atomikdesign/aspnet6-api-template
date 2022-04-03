@@ -1,0 +1,15 @@
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/bin/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.deps.json
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/bin/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/bin/Debug/net6.0/ref/TotalEnergies.ACDC.Infra.Auth.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/bin/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/bin/Debug/net6.0/TotalEnergies.ACDC.Core.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/bin/Debug/net6.0/TotalEnergies.ACDC.Core.pdb
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.csproj.AssemblyReference.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.AssemblyInfoInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.AssemblyInfo.cs
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.csproj.CoreCompileInputs.cache
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.csproj.CopyComplete
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/obj/Debug/net6.0/ref/TotalEnergies.ACDC.Infra.Auth.dll
+/Users/arnaudgourdon/Documents/Codes/L'Atelier/TemplateDotnet/WebApiNet6/TotalEnergies.ACDC.Infra.Auth/obj/Debug/net6.0/TotalEnergies.ACDC.Infra.Auth.pdb
