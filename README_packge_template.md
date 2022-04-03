@@ -8,4 +8,4 @@ Template.AspNet.API
 1. dotnet nuget push bin/Debug/AspNet6ApiTemplate.X.X.X.nupkg -s https://api.nuget.org/v3/index.json --api-key xxxxxxxxxxxxx
 
 #how to run 
-1. dotnet new aspnet6-api -n LAtelier.NextProject 
+1. dotnet new aspnet6-api -n Company.NextProject 
