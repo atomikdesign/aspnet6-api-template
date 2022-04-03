@@ -33,7 +33,7 @@ public class GoogleAuthProxy
                 {nameof(response.StatusCode), $"{response.StatusCode}"}
             });
 
-            throw exception;
+            throw response.ErrorException ?? exception;
         }
 
         return response.Data;

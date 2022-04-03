@@ -47,7 +47,7 @@ public class CustomOpenIdProxy
                 {nameof(response.StatusCode), $"{response.StatusCode}"}
             });
 
-            throw exception;
+            throw response.ErrorException ?? exception;
         }
 
         return response.Data.access_token;
@@ -69,7 +69,7 @@ public class CustomOpenIdProxy
                 {nameof(response.StatusCode), $"{response.StatusCode}"}
             });
 
-            throw exception;
+            throw response.ErrorException ?? exception;
         }
 
         return response.Data;
