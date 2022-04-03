@@ -52,14 +52,14 @@ public class MicrosoftSsoProxy
         var response = await _restClient.ExecuteAsync<AccessToken>(request);
         if (!response.IsSuccessful)
         {
-            _telemetry.TrackTrace("access token response failed.",
-                new Dictionary<string, string>
-                {
-                    {nameof(response.StatusCode), $"{response.StatusCode}"},
-                    {nameof(response.ErrorMessage), response.ErrorMessage ?? string.Empty},
-                    {"InnerException", response.ErrorException?.InnerException?.Message ?? string.Empty}
-                });
-            throw new AccessTokenException();
+            var exception = new Exception("error occured retrieving user access token");
+            _telemetry.TrackException(response.ErrorException ?? exception, new Dictionary<string, string>
+            {
+                {nameof(response.Content), $"{response.Content}"},
+                {nameof(response.StatusCode), $"{response.StatusCode}"}
+            });
+
+            throw response.ErrorException ?? exception;
         }
 
         return response.Data!.access_token;
@@ -76,15 +76,14 @@ public class MicrosoftSsoProxy
         var response = await _restClient.ExecuteAsync<UserProviderModel>(request);
         if (!response.IsSuccessful)
         {
-            _telemetry.TrackTrace("Get identity infos response failed.",
-                new Dictionary<string, string>
-                {
-                    {nameof(response.Content), $"{response.Content}"},
-                    {nameof(response.StatusCode), $"{response.StatusCode}"},
-                    {nameof(response.ErrorMessage), response.ErrorMessage ?? string.Empty},
-                    {"InnerException", response.ErrorException?.InnerException?.Message ?? string.Empty}
-                });
-            throw new AccessUserInfosException();
+            var exception = new Exception("error occured retrieving user access token");
+            _telemetry.TrackException(response.ErrorException ?? exception, new Dictionary<string, string>
+            {
+                {nameof(response.Content), $"{response.Content}"},
+                {nameof(response.StatusCode), $"{response.StatusCode}"}
+            });
+
+            throw response.ErrorException ?? exception;
         }
 
         _telemetry.TrackTrace("Identity infos response.",
